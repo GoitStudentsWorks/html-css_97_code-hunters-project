@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/code-hunters-project/",
+    "build": "vite build --base=/html-css_97_code-hunters-project/",
     "preview": "vite preview"
   },
   "devDependencies": {
